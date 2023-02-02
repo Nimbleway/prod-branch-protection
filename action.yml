@@ -1,0 +1,9 @@
+name: Production Branch Protection
+description: Production Branch Protection
+author: Eyal Halfon
+runs:
+  using: node16
+  main: main.js
+branding:
+  icon: upload-cloud
+  color: green
